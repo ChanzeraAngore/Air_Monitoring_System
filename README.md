@@ -1,6 +1,6 @@
 CONTRIBUTORS
 Sande angore {project manager}
-
+HUMPHREY KOMBE -SOFTWARE DESIGNER
 
 
 Air Monitoring System:The Air Monitoring System is designed to measure and analyze air quality in real-time. It collects data on various environmental parameters such as temperature, humidity, particulate matter (PM2.5 and PM10), carbon dioxide (CO2) levels, and other pollutants. The system aims to provide insights into air quality trends and help users make informed decisions regarding health and safety.
@@ -10,11 +10,10 @@ FEATURES --
 Real-Time Data Collection: Continuously monitors air quality metrics.
          
          Data Visualization: Displays data through interactive charts and graphs.
-         --
+         
          Alerts and Notifications: Sends alerts when pollutant levels exceed safe thresholds.
-         --
          Data Analysis: Stores data for trend analysis and reporting.
-         --
+         
          Friendly Interface: Easy-to-navigate dashboard for quick access to information.
 
 
