@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/air-monitoring-system.git
 
 cd air-monitoring-system
 
-Install Dependencies Ensure you have Python and pip installed. Then run:
+Install
 
 pip install -r requirements.txt
 
@@ -47,7 +47,5 @@ Configure alerts and notifications via the settings page.
 
 Export data to CSV for further analysis.
 
-LICENSE 
-This project is licensed under the MIT License - see the LICENSE file for details.
-Contact
+
 
